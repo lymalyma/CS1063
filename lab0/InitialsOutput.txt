@@ -1,0 +1,13 @@
+Welcome to DrJava.  Working directory is /Users/limecakes/Programming
+> run Initials
+Lab 0 done by Lymari Montijo
+
+L          QQQQQQ      M       M
+L         Q      Q     M M   M M
+L         Q      Q     M  M M  M
+L         Q      Q     M   M   M
+L         Q   Q  Q     M       M
+L         Q    Q Q     M       M
+LLLLLLL    QQQQQQ      M       M
+                 Q
+> 
