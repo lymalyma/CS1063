@@ -1,0 +1,28 @@
+Welcome to DrJava.  Working directory is /Users/limecakes/Programming
+> run Poems
+Lab 1 written by Lymari Montijo
+
+"Mary had a little lamb"
+
+Mary had a little lamb,
+Little lamb, little lamb,
+Mary had a little lamb,
+Its fleece was white as snow
+
+"This Old Man"
+
+This old man, he played one 
+He played knick-knack on my thumb
+With a knick-knack patty-whack, give a dog a bone
+This old man came rolling home
+
+This old man, he played two
+He played knick-knack on my shoe
+With a knick-knack patty-whack, give a dog a bone
+This old man came rolling home
+
+This old man, he played three
+He played knick-knack on my knee
+With a knick-knack patty-whack, give a dog a bone
+This old man came rolling home
+> 
